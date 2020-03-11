@@ -1,6 +1,6 @@
 # COVID-19 New Confirmed cases data and Local hightest temperate for that day data by Abishek Muthian
 
-* Twitter : @heavyinfo
+* Twitter : [@heavyinfo](https://twitter.com/heavyinfo)
 * Email : abishek.muthian@protonmail.com 
 
 ## From the forked data from,
