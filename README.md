@@ -1,3 +1,10 @@
+# COVID-19 New Confirmed cases data and Local hightest temperate for that day data by Abishek Muthian
+
+* Twitter : @heavyinfo
+* Email : abishek.muthian@protonmail.com 
+
+## From the forked data from,
+
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
 
